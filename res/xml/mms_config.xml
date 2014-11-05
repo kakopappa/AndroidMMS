@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mms_config version="4">
+    <int name="maxMessageSize">1048576</int>
+    <int name="maxImageHeight">1944</int>
+    <int name="maxImageWidth">2592</int>
+    <string name="uaProfUrl">http://www.htcmms.com.tw/Android/Common/nexusone/ua-profile.xml</string>
+    <string name="userAgent">Nexusone</string>
+</mms_config>
